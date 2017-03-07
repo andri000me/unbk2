@@ -1,0 +1,392 @@
+.body{
+	background:#3598db;
+}
+.login{
+	text-align:right;
+	padding-right:40px;
+	padding-bottom:20px;
+	color:#fff;
+}
+.kayu{
+	background:#fff;
+	box-shadow:3px 3px 3px rgba(0,0,0,0.3);
+	width:5px;
+	border-radius:30px;
+	height:200px;
+}
+
+.judul{
+	text-shadow:3px 3px 3px rgba(0,0,0,0.3);
+}
+.login h4{
+	margin-top:0px;
+}
+
+
+.tengah{
+	text-align:center;
+	color:white;
+	font-size:1.3em;
+	padding-top:50px;
+}
+
+.tengah1{
+	text-align:center;
+	color:white;
+	font-size:1em;
+	padding-top:;
+	text-shadow:3px 3px 3px rgba(0,0,0,0.3);
+}
+
+.shadow-text{
+	text-shadow:3px 3px 3px rgba(0,0,0,0.3);
+}
+.padding0{
+	padding:0px;
+	width:auto;
+}
+.padding10{
+	padding-left:5%;
+	padding-right:2%;
+	padding-bottom:10px;
+}
+
+.row .col-md-3{
+	min-width:385px;
+}
+.kotak{
+	width:30px;
+	height:34px;
+	padding-top:2px;
+	background:#fff;
+	float:left;
+	font-size:1.2em;
+	text-align:center;
+	color:#000;
+	border-top-left-radius:4px;
+	border-bottom-left-radius:4px;
+	z-index:-10;
+}
+
+
+.kanann{
+	padding-top:6px;
+	padding-bottom:6px;
+	padding-right:4px;
+	border-right:1px solid #000;
+}
+.sea input{
+    padding-left:2px;
+	display:block;
+    width: 83%;
+	margin-bottom:10px;
+    line-height: 1.42857143;
+	font-family:aller;
+}
+.left{
+	border:hidden;
+	padding-left:0px;
+	float:left;
+	width:85%;
+	margin-left:-2px;
+	border-top-left-radius:0px;
+	border-bottom-left-radius:0px;
+	background:#fff;
+}
+`
+
+.padding20{
+	padding-left:30px;
+}
+
+.padding20{
+	text-align:center;
+}
+.konten{
+	padding-top:220px;
+	overflow-x:hidden;
+	overflow-y:hidden;
+}
+
+.konten3{
+	margin-top:-20px;
+	min-height:494px;
+	text-align:center;
+	background:#e4f5ff;
+	padding-top:130px;
+	color:#3598db;
+	overflow-x:hidden;
+	overflow-y:hidden;
+}
+.konten3 h2{
+	padding-bottom:30px;
+}
+.backto{
+	background:#3598db;
+	border:none;
+	border-radius:0px;
+	font-family:aller;
+	font-size:1.5em;
+}
+.finish{
+	background:#2ecc6f;
+	border:none;
+	border-radius:0px;
+	font-family:aller;
+	font-size:1.5em;
+}
+
+.btnnya{
+	background:#00aff0;
+	border:none;
+	box-shadow:3px 3px 3px rgba(0,0,0,0.3);
+}
+
+
+.topp{
+	color:#fff;
+	font-size:1.3em;
+	font-family:aller;	
+	border-radius:0px;
+	border:hidden;
+	background:#3598db;
+}
+
+.topp p{
+	padding-top:17px;
+	padding-left:5px;
+	float:left;
+}
+
+.topp img.judulimg{
+	box-shadow:3px 3px 3px rgba(0,0,0,0.3);
+	border-radius:91%;
+	width:40px;
+	height:40px;
+	margin-top:7px;
+	margin-bottom:10px;
+	margin-left:10px;
+	padding:0px;
+	float:left;
+}
+.bor{
+	float:right;
+}
+.bor p{
+	margin:0px;
+	padding-top:0px;
+	text-align:right;
+}
+
+.imgpp{
+	width:50px;
+	height:50px;
+	background:red;
+	border-radius:90%;
+	margin-top:5px;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+.kotwaktu{
+	float:right;
+	margin-top:8px;
+	padding-right:10px;
+	padding-left:10px;
+	font-size:0.8em;
+	border-left:2px solid #fff;
+}
+.kotwaktu p{
+	text-align:left;
+}
+
+.jud{
+	text-align:center;
+}
+.jud h3{
+	color:#3598db;
+	font-family:calibri;
+}
+.matpelsain{
+	height:200px;
+	padding-top:60px;
+	background:#e84c3d;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:15px;
+}
+.matpelbhs{
+	height:200px;
+	padding-top:60px;
+	background:#3598db;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:15px;
+}
+.matpelmate{
+	height:200px;
+	padding-top:60px;
+	background:#2dcc70;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:15px;
+}
+.konten1{
+	margin-top:-20px;
+	min-height:600px;
+	background:#e4f5ff;
+	width:100%;
+}
+
+.tb{
+	padding:10px;
+	min-width:200px;
+	font-size:2em;
+	color:#fff;
+	font-family:calibri;
+}
+
+.tb p{
+	font-weight:bold;
+	font-size:0.7em;
+	font-family:aller;
+	margin:0px;
+}
+footer{
+	height:80px;
+	padding-top:20px;
+	background:#3598db;
+}
+
+.the-content{
+	background:#e4f5ff;
+	min-height:400px;
+}
+
+.fill{
+	background:#fff;
+	min-height:450px;
+	min-width:80%;
+	margin:6vw 10% 6vw 10%;
+	position:relative;
+}
+
+.time{
+	position:absolute;
+	top:10px;
+	right:10px;
+	color:#c0463b;
+	font-family:aller;
+	font-size:1.3em;
+}
+
+.the-action{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+}
+
+.padding-left{
+	padding-left:80px;
+	padding-top:20px;
+	font-size:1.2em;
+	font-family:aller;
+}
+.padding-head{
+	padding-left:80px;
+	padding-top:20px;
+	font-family:aller;
+}
+@media screen and (max-width:1324px){
+
+.konten1{
+		min-height:830px;}
+}
+@media screen and (max-width:991px){
+	.kayu{
+		width:100%;
+		height:3px;
+		margin-bottom:10px;
+	}
+	.konten{
+		padding-top:80px;
+	}
+	.imgpp{
+		margin-bottom:6px;
+	}
+	.padding10{
+	padding-left:2%;
+	padding-right:5%;
+	}
+	.matpel{
+		margin-right:0px;
+	}
+	
+	.konten1{
+		min-height:800px;}
+	.fill{
+	margin:5vw 5% 6vw 5%;
+	min-height:500px;
+	padding-bottom:50px;
+	}
+	.padding-left{
+	padding-left:20px;
+	padding-top:20px;
+	padding-right:10px;
+	}
+	.padding-head{
+	padding-left:20px;
+	padding-top:20px;
+	font-size:1.3em;
+	color:#000;
+	}
+	.time{
+	font-size:1.1em;
+	line-height:0.8;
+	}	
+}
+@media screen and (max-width:480px){
+	.login{
+		border-right:hidden;
+		padding-right:0px;
+	}
+	.topp{
+		font-size:1em;
+	}
+	.bor,.kotwaktu{
+		float:left;
+	}
+	.imgpp{
+		height:40px;
+		width:40px;
+		float:left;
+		margin-bottom:10px;
+	}
+	.bor p{
+		font-size:0.9em;
+	}
+	.row .col-md-3{
+		min-width:200px;
+	}
+	.padding10{
+		padding-right:7%;
+	}
+	.tb{
+		font-size:1.3em;
+		min-width:100px;
+	}
+	
+	.tb td{
+		padding-top:1px;
+		padding-right:1px;
+	}
+
+	.tb p{
+		padding:0px;
+		font-size:0.7em;
+	}
+	.matpelsain img,.matpelbhs img,.matpelmate img{
+		width:80px;
+		height:100px;
+	}
+}
