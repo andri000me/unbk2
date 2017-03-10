@@ -24,5 +24,5 @@
 				</div>
 			</div>
 		</nav>
-		<div class="konten1">
+		
 		

@@ -33,7 +33,7 @@ class Login extends CI_Controller {
 			else if($data['hak_akses']=='admin')
 				redirect('admin');
 			else if($data['hak_akses']=='superadmin')
-				redirect('modules/superadmin');
+				redirect('superadmin');
 		}
 		else
 			redirect('login?err=1');
